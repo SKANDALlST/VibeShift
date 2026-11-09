@@ -25,12 +25,20 @@ VibeShift красит в одну тему то, что обычная тема
 |---|---|
 | **Blue Vibe** | сине-серая тёмная тема |
 | **Dark Vibe** | нейтральная тёмная тема без оттенка |
-| **Цвет папок** | серые или синие, с любой темой. Папки остаются сплошными: содержимое не просвечивает |
+| **Цвет папок** | серые или синие, с любой темой. Папки остаются сплошными: содержимое не просвечивает 
 | **Проводник в стиле Windows 10** | лента и панели без лишнего, через настройку оболочки |
-| **QTTabBar** | вкладки в Проводнике, настроены сразу |
-| **Стандартная** | возвращает выбранное к виду Windows |
+| **Вкладки VibeShift** | встроенные вкладки для Проводника |
+| **Стандартная** | возвращает выбранное к стандартному виду Windows |
 
 Каждый пункт включается отдельно. Файлы иконок меняются, только если включён переключатель «Папки».
+
+## Как пользоваться вкладками
+
+Включите «Вкладки VibeShift» и нажмите «Применить».
+
+- Нажмите средней кнопкой мыши на папку, чтобы открыть её в новой вкладке.
+- Нажмите средней кнопкой на вкладку, чтобы закрыть её. Двойной щелчок рядом с вкладками вернёт последнюю закрытую.
+- Перетащите файлы на вкладку, чтобы скопировать или переместить их в её папку.
 
 ## Установка
 
@@ -72,4 +80,4 @@ VibeShift запрашивает права администратора и ме
 
 ### English
 
-**VibeShift** is a one-click dark makeover for Windows 11: two themes (Blue Vibe, Dark Vibe), folder colors, a Windows 10 style Explorer and browser-like tabs, all reversible with one button. Tested on Windows 11 24H2  only. Requires [UltraUXThemePatcher](https://mhoefs.eu/software_uxtheme.php?lang=en) and administrator rights. It modifies system files, so create a restore point first and use it at your own risk.
+**VibeShift** is a one-click dark makeover for Windows 11: two themes (Blue Vibe, Dark Vibe), folder colors, a Windows 10 style Explorer and built-in VibeShift tabs, all reversible with one button. Tested on Windows 11 24H2  only. Requires [UltraUXThemePatcher](https://mhoefs.eu/software_uxtheme.php?lang=en) and administrator rights. It modifies system files, so create a restore point first and use it at your own risk.
