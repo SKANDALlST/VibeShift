@@ -26,7 +26,8 @@ VibeShift красит в одну тему то, что обычная тема
 | **Blue Vibe** | сине-серая тёмная тема |
 | **Dark Vibe** | нейтральная тёмная тема без оттенка |
 | **Цвет папок** | серые или синие, с любой темой. Папки остаются сплошными: содержимое не просвечивает 
-| **Проводник в стиле Windows 10** | лента и панели без лишнего, через настройку оболочки |
+| **Проводник** | На Windows 11 возвращает привычный вид Проводника из Windows 10.<br>На Windows 10 скрывает ленту команд в верхней части окна. |
+| **Контекстное меню Windows 10** | классическое меню по правому клику на Windows 11 |
 | **Вкладки VibeShift** | встроенные вкладки для Проводника |
 | **Стандартная** | возвращает выбранное к стандартному виду Windows |
 
@@ -39,6 +40,7 @@ VibeShift красит в одну тему то, что обычная тема
 - Нажмите средней кнопкой мыши на папку, чтобы открыть её в новой вкладке.
 - Нажмите средней кнопкой на вкладку, чтобы закрыть её. Двойной щелчок рядом с вкладками вернёт последнюю закрытую.
 - Перетащите файлы на вкладку, чтобы скопировать или переместить их в её папку.
+- По правому клику на полосе вкладок доступны параметры папок Windows и переключатель показа скрытых элементов.
 
 ## Установка
 
@@ -49,8 +51,7 @@ VibeShift красит в одну тему то, что обычная тема
 
 ## Что нужно
 
-- **Windows 11 24H2**. На других версиях программа не проверялась, на Windows 10 темы не рассчитаны.
-- **[UltraUXThemePatcher](https://mhoefs.eu/software_uxtheme.php?lang=en)**: Windows загружает только темы с подписью Microsoft. Если патчера нет, VibeShift сам предложит его скачать. Без патчера доступен только возврат к стандартному виду.
+- **[UltraUXThemePatcher](https://mhoefs.eu/software_uxtheme.php?lang=en)**: Windows загружает только темы с подписью Microsoft. Если патчера нет, VibeShift сам предложит его скачать. На Windows без патчера доступен возврат к стандартному виду. На Windows 10 настройки Проводника доступны отдельно.
 - Права администратора. Проводник при применении перезапустится.
 
 ## Как отличить настоящую копию
@@ -80,4 +81,4 @@ VibeShift запрашивает права администратора и ме
 
 ### English
 
-**VibeShift** is a one-click dark makeover for Windows 11: two themes (Blue Vibe, Dark Vibe), folder colors, a Windows 10 style Explorer and built-in VibeShift tabs, all reversible with one button. Tested on Windows 11 24H2  only. Requires [UltraUXThemePatcher](https://mhoefs.eu/software_uxtheme.php?lang=en) and administrator rights. It modifies system files, so create a restore point first and use it at your own risk.
+**VibeShift** is a one-click dark makeover for Windows 10 and 11: two themes (Blue Vibe, Dark Vibe), folder colors, a Windows 10 style Explorer and built-in VibeShift tabs, all reversible with one button. Requires [UltraUXThemePatcher](https://mhoefs.eu/software_uxtheme.php?lang=en) and administrator rights. It modifies system files, so create a restore point first and use it at your own risk.
